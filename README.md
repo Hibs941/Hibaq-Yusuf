@@ -1,4 +1,4 @@
-# Hibaq-Yusuf
+# Smoking and ThyCa analysis
 
 > library(MRInstruments)
 > library(TwoSampleMR)
